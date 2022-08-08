@@ -51,5 +51,8 @@
   "bugs": {
     "url": "https://github.com/emirotin/node-template/issues"
   },
-  "homepage": "https://github.com/emirotin/node-template#readme"
+  "homepage": "https://github.com/emirotin/node-template#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
